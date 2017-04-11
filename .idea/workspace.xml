@@ -12,11 +12,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Exemplo_controle_fluxo.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exemplo_controle_fluxo.py">
+      <file leaf-file-name="Expressão para atribuir valor a partir da condição após a igualdade.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressão para atribuir valor a partir da condição após a igualdade.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -39,6 +39,7 @@
       <list>
         <option value="$PROJECT_DIR$/Exemplo_blocos.py" />
         <option value="$PROJECT_DIR$/Exemplo_controle_fluxo.py" />
+        <option value="$PROJECT_DIR$/Expressão para atribuir valor a partir da condição após a igualdade.py" />
       </list>
     </option>
   </component>
@@ -93,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exemplo_controle_fluxo">
+  <component name="RunManager" selected="Python.Expressão para atribuir valor a partir da condição após a igualdade">
     <configuration default="false" name="Exemplo_blocos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,6 +126,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_para_desenvolvedores-Exemplos-do-livro" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exemplo_controle_fluxo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Expressão para atribuir valor a partir da condição após a igualdade" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_para_desenvolvedores-Exemplos-do-livro" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Expressão para atribuir valor a partir da condição após a igualdade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,14 +213,16 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.Exemplo_blocos" />
       <item index="1" class="java.lang.String" itemvalue="Python.Exemplo_controle_fluxo" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Expressão para atribuir valor a partir da condição após a igualdade" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.Exemplo_controle_fluxo" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Exemplo_blocos" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.Expressão para atribuir valor a partir da condição após a igualdade" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Exemplo_controle_fluxo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Exemplo_blocos" />
       </list>
     </recent_temporary>
   </component>
@@ -260,8 +281,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exemplo_controle_fluxo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressão para atribuir valor a partir da condição após a igualdade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
           <folding />
         </state>
       </provider>
